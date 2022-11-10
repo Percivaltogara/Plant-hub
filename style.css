@@ -12,7 +12,7 @@ html {
     height: 10%;
 }
 
-h1, h2, p {
+h1, h2 {
     font-family: 'ITC Avant Garde Gothic Std Bold', sans-serif;
     font-weight: bold;
 }
@@ -25,6 +25,7 @@ h2 {
 }
 
 p {
+    font-weight: 700;
     font-size: 20px;
 }
 
