@@ -23,8 +23,12 @@ h1 {
 h2 {    
     font-size: 3rem;
 }
+
+p {
+    font-weight: 600;
+}
 .col {
-    width: 500px;
+    width: 650px;
 }
 
 .buffer-main {
