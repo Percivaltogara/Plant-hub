@@ -12,7 +12,7 @@ html {
     height: 10%;
 }
 
-h1, h2 {
+h1, h2, p {
     font-family: 'ITC Avant Garde Gothic Std Bold', sans-serif;
     font-weight: bold;
 }
@@ -25,10 +25,7 @@ h2 {
 }
 
 p {
-    font-weight: 600;
-}
-.col {
-    width: 650px;
+    font-size: 20px;
 }
 
 .buffer-main {
@@ -43,11 +40,6 @@ p {
     height: 45px;
     width: 160px;
     font-weight: 800;
-}
-
-.btn-primary {
-    background-color: #195A00;
-    border-color: #195A00;
 }
 
 img {
